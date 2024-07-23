@@ -1,2 +1,2 @@
 # kukuntul
-for dependent jarwohoktea
+for deployer hardhat swisstronik
